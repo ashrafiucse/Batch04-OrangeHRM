@@ -2,6 +2,13 @@
 
 Cypress automation testing project for OrangeHRM HR management system.
 
+## Cloning the Project
+
+```bash
+git clone https://github.com/ashrafiucse/Batch04-OrangeHRM.git
+cd Batch04-OrangeHRM
+```
+
 ## Project Setup
 
 ```bash
